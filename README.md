@@ -5,7 +5,7 @@ Introduction
   POS-GIFT is a feature matching algorithm for multi-modal, multi-temporal images, which is resistant to modality differences, scale differences, and rotation differences.
 
 Setting
-  Matlab version：2021,2022...
+  Matlab version：2021,2022...  
   vlfeat Download：https://www.vlfeat.org/  
 Usage
   1. Installing matlab, vlfeat dependent library.
