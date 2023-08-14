@@ -14,5 +14,6 @@ Usage
 
   1. Installing Matlab, VLFeat dependent library.
   2. Run POS_GIFT_demo directly.  
-![image](https://github.com/Zhuolu-Hou/POS-GIFT/blob/main/Res/res.png)
+![image](https://github.com/Zhuolu-Hou/POS-GIFT/blob/main/Res/res.png)  
+                              Map-Optical
 
