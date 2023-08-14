@@ -14,6 +14,10 @@ Usage
 
   1. Installing Matlab, VLFeat dependent library.
   2. Run POS_GIFT_demo directly.
-![image](https://github.com/Zhuolu-Hou/POS-GIFT/blob/main/Res/res.png)  
-
+![image](https://github.com/Zhuolu-Hou/POS-GIFT/blob/main/Res/res1.png)  
+![image](https://github.com/Zhuolu-Hou/POS-GIFT/blob/main/Res/res2.png)
+![image](https://github.com/Zhuolu-Hou/POS-GIFT/blob/main/Res/res3.png)
+![image](https://github.com/Zhuolu-Hou/POS-GIFT/blob/main/Res/res4.png)
+![image](https://github.com/Zhuolu-Hou/POS-GIFT/blob/main/Res/res5.png)
+![image](https://github.com/Zhuolu-Hou/POS-GIFT/blob/main/Res/res6.png)  
 
