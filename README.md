@@ -14,3 +14,4 @@ Usage
 
   1. Installing Matlab, VLFeat dependent library.
   2. Run POS_GIFT_demo directly.
+![image](res.png)
