@@ -1,3 +1,4 @@
+# The current POS-GIFT code has an error. I'll upload the corrected code by January 1st  
 # POS-GIFT
   This is a demo code for our paper titled **"POS-GIFT: A Geometric and Intensity-Invariant Feature Transformation for Multimodal Images"** published in the Information Fusion journal.  
 ## Introduction：  
